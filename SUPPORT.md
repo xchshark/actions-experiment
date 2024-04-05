@@ -1,5 +1,5 @@
 # Support
-#EDIT BUTTON ON README IS FKNG SHIT
+#EDIT BUTTON ON README IS FKNG SHIT!
 
 ## How to file issues and get help
 
